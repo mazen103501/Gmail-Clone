@@ -1,7 +1,5 @@
 # Gmail-Clone
 
-the code got deleted by accident
-
 Used Redux / Router / firebase Auth / Firebase Firestore
 
 and the url for it is   
